@@ -7,7 +7,7 @@ This repository is my final submission from dicoding class https://www.dicoding.
 ### What i learn in this class :
   1.  Creating first kotlin program
   2.  Kotlin Fundamental
-      ->
+      - Data Type
       ->
   3.  Intent
   4.  Option Menu
