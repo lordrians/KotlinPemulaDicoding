@@ -8,38 +8,65 @@ This repository is my final submission from dicoding class https://www.dicoding.
   1.  Creating first kotlin program
   2.  Kotlin Fundamental
       - Data Type
-      ->
-  3.  Intent
-  4.  Option Menu
-  5.  Fragment
-  7.  Glide (for put image to view)
-  8.  Parclelable
-  9.  Laravel REST API
-  10. Server Xampp in localhost
-  11. Shared Preference
-  12. Volley HTTP
-  13. TabLayout
-  14. Navigation Drawer
-  15. Bottom Nav Bar
-  16. Viewpager2 , etc
+      - Basic Function
+      - If Expression
+      - Boolean
+      - Numbers
+      - Nullable Types
+      - Safe Call & Elvis Operator
+      - String Template
+  3.  Control Flow
+      - Enumeration
+      - When Expression
+      - Expression & Statement
+      - While & Do While
+      - Range & For Loop
+      - Break & Continue
+      - Numbers
+  4.  Data Class & Collections
+      - Data Class
+      - Collections
+      - Collections Operations
+      - Sequences
+  5.  Functional
+      - Named and Default Argument
+      - Vararg Argument
+      - Extensions
+      - Lambda
+      - Function Type
+      - Library Helper
+      - Scope Function with Lambda Receiver
+      - Scope Function with Lambda Argument
+      - Member References
+      - Function Inside Function
+      - Advanced Collection Function
+      - Recursion
+  7.  Object-Oriented
+      - Object Everywhere
+      - Classes
+      - Properties
+      - Constructor
+      - Inheritances
+      - Abstract Class
+      - Visibility Modifiers
+      - Import dan Packages
+      - Exception Handling
+      - Overloading
+      - Extension Properties
+      - Interfaces
+      - Property Delegation
+  8.  Generics
+      - Generics
+      - Variance
+  9.  Coroutines
+      - Memulai Coroutine
+      - Job dan Deferred
+      - Coroutine Dispatcher
+      - Channels
   
-#### [Demo Apps in Youtube]
+#### Conclusion
 
-Demo Apps [link](https://www.youtube.com/watch?v=2PMJChPfgSs)
+After finished this class i have conclusion to share who wan't to start this class. If you had learn programming language like (Java, Php, etc). You will be more easy to understand this class if you had learn fundamental another language.
 
-#### [Screenshoot]
-
-This section automatically after user register new account
-
-<img src="/app/screenshoot/1.jpg" width="250" height="400"> <img src="/app/screenshoot/2.jpg" width="250" height="400"> <img src="/app/screenshoot/3.jpg" width="250" height="400"> 
-
- 
-<img src="/app/screenshoot/4.jpg" width="250" height="400">  <img src="/app/screenshoot/5.jpg" width="250" height="400">  <img src="/app/screenshoot/6.jpg" width="250" height="400"> 
- 
- 
-<img src="/app/screenshoot/7.jpg" width="250" height="400">  <img src="/app/screenshoot/8.jpg" width="250" height="400">  <img src="/app/screenshoot/9.jpg" width="250" height="400"> 
-
-
-<img src="/app/screenshoot/10.jpg" width="250" height="400">  <img src="/app/screenshoot/11.jpg" width="250" height="400">  <img src="/app/screenshoot/12.jpg" width="250" height="400"> 
-
-<img src="/app/screenshoot/13.jpg" width="250" height="400">  <img src="/app/screenshoot/14.jpg" width="250" height="400">  
+My trouble for this class is, like Generics, Coroutines Vararg and Recursion . Cuz i need more time for understand that title :)
+Goodluck for you all....
