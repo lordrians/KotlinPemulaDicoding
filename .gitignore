@@ -1,0 +1,60 @@
+# Project exclude paths
+/.gradle/
+/Control Flow/Enumeration/All of Enum Object/build/
+/Control Flow/Enumeration/Anonymous Class in Enumeration/build/
+/Control Flow/Enumeration/Enum Object Value/build/
+/Control Flow/Enumeration/Enumeration/build/
+/Control Flow/Enumeration/valueOf/build/
+/Control Flow/Latihan/Latihan/build/
+/Control Flow/Latihan/Latihan/out/
+/Control Flow/Latihan/Latihan/out/production/classes/
+/Control Flow/Range and For loop/Range ForEach/build/
+/Coroutines/Job dan Deferred/Contoh 2/build/
+/Coroutines/Job dan Deferred/Contoh 3/build/
+/Coroutines/latihan/Latihan/build/
+/Coroutines/latihan/Latihan/out/
+/Coroutines/latihan/Latihan/out/production/classes/
+/Coroutines/Memulai Coroutine/Contoh 2/build/
+/Coroutines/Memulai Coroutine/Contoh 3/build/
+/Data Class dan Collections/Collections/Collections/build/
+/Functional/Advanced Collection Function/Fold/build/
+/Functional/Latihan/Latihan/out/
+/Functional/Latihan/Latihan/out/production/classes/
+/Generics/Generics/Contoh 1/out/
+/Generics/Generics/Contoh 1/out/production/classes/
+/Generics/Latihan/Latihan/build/
+/Generics/Latihan/Latihan/out/
+/Generics/Latihan/Latihan/out/production/classes/
+/Kotlin Fundamental/Boolean/Conjuction/build/
+/Kotlin Fundamental/Boolean/Disjunction/build/
+/Kotlin Fundamental/Data Type/Array Initialization/build/
+/Kotlin Fundamental/Data Type/Char in String/build/
+/Kotlin Fundamental/Data Type/Escaped String/build/
+/Kotlin Fundamental/Data Type/Raw String/build/
+/Kotlin Fundamental/Data Type/String/build/
+/Kotlin Fundamental/Data Type/Unicode String/build/
+/Kotlin Fundamental/Data Type/Update Array/build/
+/Kotlin Fundamental/Function/Function Initilization/build/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 2/build/
+/Kotlin Fundamental/If Expression/If/build/
+/Kotlin Fundamental/If Expression/If Else/build/
+/Kotlin Fundamental/Latihan/Latihan/build/
+/Kotlin Fundamental/Latihan/Latihan/out/
+/Kotlin Fundamental/Latihan/Latihan/out/production/classes/
+/Kotlin Fundamental/Nullable Types/Nullable Types/build/
+/Kotlin Fundamental/Numbers/Number operation/build/
+/Kotlin Fundamental/Numbers/Number with max and min values/build/
+/Kotlin Fundamental/Numbers/String to Number/build/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/build/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Safe Call Operator/build/
+/Kotlin Fundamental/String Template/String Template/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/out/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/out/production/classes/
+/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/build/
+/Object-Oriented/Latihan/Latihan/build/
+/Object-Oriented/Latihan/Latihan/out/
+/Object-Oriented/Latihan/Latihan/out/production/classes/
+/Object-Oriented/Property Delegation/Contoh/out/
+/Object-Oriented/Property Delegation/Contoh/out/production/classes/
